@@ -110,7 +110,7 @@ npx hardhat compile
 
 4. Deploy contracts
 ```bash
-npx hardhat ignition deploy .\ignition\modules\LiquidityPoolModule.js
+npx hardhat run scripts/deploy.js 
 ```
 
 5. Start frontend
