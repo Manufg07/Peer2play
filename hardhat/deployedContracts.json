@@ -1,6 +1,6 @@
 {
   "TokenA": {
-    "address": "0x2163A74F785943Fc5851F8D265f8Cc90542766E3",
+    "address": "0x903e8025d61Cc5E6F7bBD3bB8E841d025E18CD91",
     "abi": [
       {
         "inputs": [],
@@ -280,7 +280,7 @@
     ]
   },
   "TokenB": {
-    "address": "0x5b99d19f051B0f80b4F37f6119F5Cb880f1293Fd",
+    "address": "0xd859f69c72db8fb25059C2F7679d99660ef592e7",
     "abi": [
       {
         "inputs": [],
@@ -560,7 +560,7 @@
     ]
   },
   "LiquidityPoolFactory": {
-    "address": "0xBD2835B887a177232B6565cc9D16eFB7e153Da8c",
+    "address": "0xB240eFC0391c53E41Db1F6992B6a1Fbb0b98dFbd",
     "abi": [
       {
         "anonymous": false,
@@ -670,7 +670,7 @@
     ]
   },
   "LiquidityPoolRouter": {
-    "address": "0x8207Af68754670F7e61312abaD13dfBd86f4dCfE",
+    "address": "0x123260d5b10d7481d8C5767C6c908fa4457E9258",
     "abi": [
       {
         "inputs": [

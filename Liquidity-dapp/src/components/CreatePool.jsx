@@ -6,7 +6,7 @@ const CreatePool = ({ signer }) => {
   const [tokenA, setTokenA] = useState("");
   const [tokenB, setTokenB] = useState("");
   const [loading, setLoading] = useState(false); // New loading state
-  const factoryAddress = "0xBD2835B887a177232B6565cc9D16eFB7e153Da8c";
+  const factoryAddress = "0xB240eFC0391c53E41Db1F6992B6a1Fbb0b98dFbd";
 
   const createPool = async () => {
     if (!signer) {
