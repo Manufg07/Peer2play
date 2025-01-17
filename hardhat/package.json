@@ -3,18 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx hardhat test"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "@nomicfoundation/hardhat-ignition": "^0.15.9",
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "@openzeppelin/contracts": "^5.2.0",
-    "hardhat": "^2.22.18"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2"
   },
   "dependencies": {
-    "ethers": "^6.13.5"
+    "fp-ts": "^2.16.9",
+    "hardhat": "^2.22.18"
   }
 }
