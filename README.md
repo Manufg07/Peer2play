@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 
 Check out the live application deployed on Vercel:
-- ✨ Demo URL: [https://task-peer2play.vercel.app/](https://task-peer2play.vercel.app/)
+- ✨ Demo URL: 
   
 ## 🚀 Introduction
 This project is a decentralized application (DApp) that demonstrates the functionality of a liquidity pool on the Ethereum blockchain. It includes the deployment of two ERC20 tokens, a liquidity pool smart contract, and features such as adding/removing liquidity and token swapping. The DApp is built using Solidity, Hardhat, and React.js for a seamless user experience.
@@ -94,7 +94,7 @@ The project includes a React-based frontend that provides:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Manufg07/Zillow_Dapp.git
+git clone https://github.com/Manufg07/Peer2play.git
 ```
 
 2. Install dependencies
