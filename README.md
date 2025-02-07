@@ -1,4 +1,4 @@
-# 🌊 Liquidity Pool DApp - Peer2Play Assessment
+# 🌊 Liquidity Pool DApp - Peer2Play 
 ---
 [![Watch on YouTube](https://img.youtube.com/vi/bbguACkA5Hs/0.jpg)](https://youtu.be/bbguACkA5Hs)
 ---
